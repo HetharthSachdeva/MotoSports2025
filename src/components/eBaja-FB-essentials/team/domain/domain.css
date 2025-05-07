@@ -1,0 +1,18 @@
+.domain {
+    width: 100% !important;
+}
+
+.domainMembers .memberCard {
+    max-width: 280px;
+}
+
+
+@media (max-width: 500px) {
+    .domain > div:nth-child(2) {
+        margin: 0;
+    }
+
+    .domain {
+        margin-top: 1rem;
+    }
+}
