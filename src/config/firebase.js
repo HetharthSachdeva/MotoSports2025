@@ -3,7 +3,7 @@ import { getAnalytics } from "firebase/analytics";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAcRBEUCy2hh4IkGeqZ1wjWx93H9u0yx_k",
+  apiKey: ".",
   authDomain: "motosports-nitrr.firebaseapp.com",
   projectId: "motosports-nitrr",
   storageBucket: "motosports-nitrr.appspot.com",
