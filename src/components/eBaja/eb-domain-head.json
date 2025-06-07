@@ -1,0 +1,29 @@
+{
+     "Abhishek_Y": {
+        "index": "Abhishek_Y",
+        "name": "Abhishek Yadav",
+        "DomainName": "Suspension",
+        "Role": "Domain Head",
+        "img": "/eb-pics/abhishekyadav.jpg",
+        "linkedin": "https://www.linkedin.com/in/abhishek-yadav-90742a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/abhishekyadav_nitrr?igsh=MXN6OG1qMmE2aHBhNg=="
+    },
+    "Shantanu": {
+        "index": "Shantanu",
+        "name": "Shantanu Gouraha",
+        "DomainName": "Brakes",
+        "Role": "Domain Head",
+        "img": "/eb-pics/shantanugouraha.jpg",
+        "linkedin": "https://www.linkedin.com/in/shantanu-gouraha-a2828a1b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/shantanu.wav?igsh=MW90am9pZm45azg2aA=="
+    },
+     "Ritika": {
+        "index": "Ritika",
+        "name": "Ritika Jain",
+        "DomainName": "Steering",
+        "Role": "Domain Head",
+        "img": "/eb-pics/ritikajain.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/jn_.ritika?igsh=OTlydzRma2JqOTJy"
+    }
+}

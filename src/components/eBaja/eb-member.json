@@ -1,0 +1,317 @@
+{
+    "Amurtya": {
+        "index": "Amurtya",
+        "name": "Amurtya Rai",
+        "DomainName": "Powertrain",
+        "Role": "Circuitry Head",
+        "img": "/eb-pics/amurtyarai.jpg",
+        "linkedin": "https://www.linkedin.com/in/amurtya-rai-bb3659288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/_amurtya_?igsh=MTdzOTVxeHhjNjA3cw=="
+    },
+    "Abhishek_K": {
+        "index": "Abhishek_K",
+        "name": "Abhishek Kumar",
+        "DomainName": "Powertrain",
+        "Role": "Member",
+        "img":"/eb-pics/abhishekkumar.jpg",
+        "linkedin": "https://www.linkedin.com/in/abhishek-kumar-172823327",
+        "insta": "https://www.instagram.com/abhishek__8376?igsh=MTF0M3locjczb3JucQ==&utm_source=ig_contact_invite"
+    },
+    "Sahil": {
+        "index": "Sahil",
+        "name": "Sahil Sahu",
+        "DomainName": "Steering",
+        "Role": "Member",
+        "img": "/eb-pics/sahilsahu.jpg",
+        "linkedin": "https://www.linkedin.com/in/sahil-sahu-8313a7317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/sahilsahu_24/profilecard/?igsh=b2lsMjh5dWIwYTB3"
+    },
+    "Yuvraj": {
+        "index": "Yuvraj",
+        "name": "Yuvraj Kumar Singh",
+        "DomainName": "Brakes",
+        "Role": "Member",
+        "img": "/eb-pics/yuvrajkumarsingh.jpg",
+        "linkedin": "https://www.linkedin.com/in/yuvraj-kumar-singh-543607327",
+        "insta": "https://www.instagram.com/______yuvraj_singh?igsh=MTJ5enhlY3Vwd2hodw=="
+    },
+    "Satwik": {
+        "index": "Satwik",
+        "name": "Satwik Gupta",
+        "DomainName": "Frames",
+        "Role": "Captain",
+        "img": "/eb-pics/satwikgupta.jpg",
+        "linkedin": "https://www.linkedin.com/in/satwik-gupta-a4a63431a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.linkedin.com/in/satwik-gupta-a4a63431a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "Pratyush": {
+        "index": "Pratyush",
+        "name": "Pratyush Shastri",
+        "DomainName": "Frames",
+        "Role": "Advisor",
+        "img": "/eb-pics/pratyushshashtri.jpg",
+        "linkedin": "https://www.linkedin.com/in/pratyush-shastri/",
+        "insta": ""
+    },
+    "Jitendra": {
+        "index": "Jitendra",
+        "name": "Jitendra Saraswat",
+        "DomainName": "Powertrain",
+        "Role": "Member",
+        "img": "/eb-pics/jitendrasaraswat.jpg",
+        "linkedin": "https://www.linkedin.com/in/jitendra-saraswat-b1aa24324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/jitendra__009?igsh=MXR5dTQ3MHB0MTFkbg=="
+    },
+    "Sambhab": {
+        "index": "Sambhab",
+        "name": "Sambhab Mohapatra",
+        "DomainName": "Frames",
+        "Role": "Member",
+        "img": "/eb-pics/sambhabmohapatra.jpg",
+        "linkedin": "",
+        "insta": ""
+    },
+    "Abhishek_V": {
+        "index": "Abhishek_V",
+        "name": "Abhishek Verma",
+        "DomainName": "Suspension",
+        "Role": "Member",
+        "img": "/eb-pics/abhishekverma.jpg",
+        "linkedin": "https://www.linkedin.com/in/abhishek-verma-5586332b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/abhishek.06745?utm_source=qr&igsh=MTYwZmw2YWZtNTUwag=="
+    },
+    "Rishabh": {
+        "index": "Rishabh",
+        "name": "Rishabh Gupta",
+        "DomainName": "Brakes",
+        "Role": "Member",
+        "img": "/eb-pics/rishabhgupta.jpg",
+        "linkedin": "https://www.linkedin.com/in/rishabh-gupta-283476322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/itz.rishabh_20?igsh=MW84dDBlZDd4MGhsNA=="
+    },
+    "Polam": {
+        "index": "Polam",
+        "name": "Polam Vijaya Krishna",
+        "DomainName": "Steering",
+        "Role": "Member",
+        "img": "/eb-pics/polamvijayakrishna.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/vijaykrishna_polam?igsh=bnd5c2EwbGpkN2p1"
+    },
+    "Manikanta": {
+        "index": "Manikanta",
+        "name": "Manikanta Gupta",
+        "DomainName": "Frames",
+        "Role": "Member",
+        "img": "/eb-pics/manikantagupta.jpg",
+        "linkedin": "",
+        "insta": ""
+    },
+    "Prince": {
+        "index": "Prince",
+        "name": "Prince Kumar Singh",
+        "DomainName": "Powertrain",
+        "Role": "Traction Head",
+        "img": "/eb-pics/princekumarsingh.jpg",
+        "linkedin": "www.linkedin.com/in/prince-kumar-singh-29466a309",
+        "insta": "https://www.instagram.com/prince_singh1701?igsh=YjJnOGM0MzY3Ymhy"
+    },
+    "Sanket": {
+        "index": "Sanket",
+        "name": "Sanket Diwakar",
+        "DomainName": "Steering",
+        "Role": "Member",
+        "img": "/eb-pics/sanketdiwakar.jpg",
+        "linkedin": "https://www.linkedin.com/in/sanket-diwakar-55b5aa328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/s.a.n.k.e.t_jain?igsh=MW9qaXE2OTM4OGZkcQ=="
+    },
+    "Nimesh": {
+        "index": "Nimesh",
+        "name": "Nimesh Kumar Kashyap",
+        "DomainName": "Steering",
+        "Role": "Advisor ",
+        "img": "/eb-pics/nimeshkumarkashyap.jpg",
+        "linkedin": "",
+        "insta": ""
+    },
+    "Tushar": {
+        "index": "Tushar",
+        "name": "Tushar Yadav",
+        "DomainName": "Steering",
+        "Role": "Member",
+        "img": "/eb-pics/tusharyadav.jpg",
+        "linkedin": "https://www.linkedin.com/in/tushar-yadav-b75a79339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/tusha.r_2004?igsh=MXY1Y3N4bzRmaXg4Nw=="
+    },
+    "Arpit": {
+        "index": "Arpit",
+        "name": "Arpit Gupta",
+        "DomainName": "Frames",
+        "Role": "Member",
+        "img": "/eb-pics/arpitgupta.jpg",
+        "linkedin": "https://www.linkedin.com/in/arpit-gupta-b48775319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/arpitgupta2694?igsh=aW5ubHAzMDc5YTJ2"
+    },
+    "Hemant": {
+        "index": "Hemant",
+        "name": "Hemant Tanwar",
+        "DomainName": "Suspension",
+        "Role": "Member",
+        "img": "/eb-pics/hemanttanwar.jpg",
+        "linkedin": "https://www.linkedin.com/in/hemant-tanwar-b17935332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/_haryanvi_choraa?igsh=MWI5dzE3aTF2dnppcw=="
+    },
+    "Tarun": {
+        "index": "Tarun",
+        "name": "Tarun Halder",
+        "DomainName": "Suspension",
+        "Role": "Member",
+        "img": "/eb-pics/tarunhalder.jpg",
+        "linkedin": "https://www.linkedin.com/in/tarun-halder-184417332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/tarunhalder008?igsh=a2s5bGc1MHlpcmJl"
+    },
+    "Sindhu": {
+        "index": "Sindhu",
+        "name": "Sindhu Akula",
+        "DomainName": "Suspension",
+        "Role": "Member",
+        "img": "/eb-pics/sindhuakula.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/sindhuakulaaa?igsh=M2V4c3FsdXJ6bWQ5"
+    },
+    "Chanakya": {
+        "index": "Chanakya",
+        "name": "Chanakya Yadu",
+        "DomainName": "Frames",
+        "Role": "Member",
+        "img": "/eb-pics/chanakyayadu.jpg",
+        "linkedin": "https://www.linkedin.com/in/chanakya-yadu-5b166a330",
+        "insta": "https://www.instagram.com/chanakya_1302?igsh=MTFubjl6aWJrMzVzNQ=="
+    },
+    "A.Sai": {
+        "index": "A.Sai",
+        "name": "A.Sai Subhashini",
+        "DomainName": "Suspension",
+        "Role": "Member",
+        "img": "/eb-pics/asaisubhashini.jpg",
+        "linkedin": "",
+        "insta": ""
+    },
+    "Pragya": {
+        "index": "Pragya",
+        "name": "Pragya Baghel",
+        "DomainName": "Frames",
+        "Role": "Member",
+        "img": "/eb-pics/pragyabaghel.jpg",
+        "linkedin": "https://in.linkedin.com/in/pragya-baghel-123836367",
+        "insta": ""
+    },
+    "R.": {
+        "index": "R.",
+        "name": "R. Abhinaya Supriya",
+        "DomainName": "Steering",
+        "Role": "Member",
+        "img": "/eb-pics/rabhinayasupriya.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/_abhinaya___7?igsh=YWh1Y3JjdTR5ZHJk"
+    },
+    "Arpan": {
+        "index": "Arpan",
+        "name": "Arpan Mishra",
+        "DomainName": "Brakes",
+        "Role": "Member",
+        "img": "/eb-pics/arpanmishra.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/ritwiz_04?igsh=MXUxMWQ3b2JvNjdidA=="
+    },
+    "Rohith": {
+        "index": "Rohith",
+        "name": "Rohith Balaji M",
+        "DomainName": "Powertrain",
+        "Role": "Member",
+        "img": "/eb-pics/rohithbalajim.jpg",
+        "linkedin": "https://www.linkedin.com/in/rohith-balaji-095615274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/rohithbalaji89_freakz?igsh=MTI3emthczM1OHR2Nw=="
+    },
+    "Siddharth": {
+        "index": "Siddharth",
+        "name": "Siddharth Sharma",
+        "DomainName": "Brakes",
+        "Role": "Co-Driver",
+        "img": "/eb-pics/siddharthsharma.jpg",
+        "linkedin": "https://www.linkedin.com/in/siddharth-sharma-nitrr/",
+        "insta": "https://www.instagram.com/sid.dharth__sharma/"
+    },
+    "Ragini": {
+        "index": "Ragini",
+        "name": "Ragini Dhurve",
+        "DomainName": "Steering",
+        "Role": "Member",
+        "img": "/eb-pics/raginidhuvre.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/ragini_dhurve_18?igsh=MWIzY3c0NzNiNHphdg=="
+    },
+    "Sayee": {
+        "index": "Sayee",
+        "name": "Sayee Bhakare",
+        "DomainName": "Powertrain",
+        "Role": "Member",
+        "img": "/eb-pics/sayeebhakare.jpg",
+        "linkedin": "https://www.linkedin.com/in/sayee-bhakare-556b94233/",
+        "insta": "https://www.instagram.com/sassy_sayee?igsh=MWc3cWxkdGw4ZHd0Zw=="
+    },
+    "Gorli": {
+        "index": "Gorli",
+        "name": "Gorli Sri Vardhan",
+        "DomainName": "Frames",
+        "Role": "Member",
+        "img": "/eb-pics/gorlisrivardhan.jpg",
+        "linkedin": "https://www.linkedin.com/in/gorlisrivardhan",
+        "insta": ""
+    },
+    "Aarya": {
+        "index": "Aarya",
+        "name": "Aarya Shastri",
+        "DomainName": "Powertrain",
+        "Role": "Driver",
+        "img": "/eb-pics/aaryashastri.jpg",
+        "linkedin": "https://www.linkedin.com/in/aarya-shastri-a93270350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/aarryyaa_._?igsh=MTU1NnhzZzVxMTQyMw=="
+    },
+    "Rakshit": {
+        "index": "Rakshit",
+        "name": "Rakshit Mudaliar",
+        "DomainName": "Suspension",
+        "Role": "Member",
+        "img": "/eb-pics/rakshitmudaliar.jpg",
+        "linkedin": "https://www.linkedin.com/in/rakshit-mudaliar-21bb69368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/rakshit_827/profilecard/?igsh=ZzM4bnFlZjR4OGNi"
+    },
+    "Bhavya": {
+        "index": "Bhavya",
+        "name": "Bhavya Banchhor",
+        "DomainName": "Powertrain",
+        "Role": "Member",
+        "img": "/eb-pics/bhavyabanchhor.jpg",
+        "linkedin": "https://www.linkedin.com/in/bhavya-banchhor-3a5aa6262/",
+        "insta": ""
+    },
+    "Atul": {
+        "index": "Atul",
+        "name": "Atul Tiwari",
+        "DomainName": "Frames",
+        "Role": "Member",
+        "img": "/eb-pics/atultiwari.jpg",
+        "linkedin": "",
+        "insta": "atul_tiwari1210"
+    },
+    "Prabhav": {
+        "index": "Prabhav",
+        "name": "Prabhav Verma",
+        "DomainName": "Brakes",
+        "Role": "Member",
+        "img": "/eb-pics/prabhavverma.jpg",
+        "linkedin": "",
+        "insta": ""
+    }
+}
