@@ -1,0 +1,53 @@
+{
+    "domainHead": {
+        "name": "Shikha Yadav",
+        "desig": "Domain Head",
+        "img": "/about-pics/shikhayadav.jpg",
+        "insta": "https://www.instagram.com/ahkihs_19/profilecard/?igsh=MWIzanRqMnA5eWJjZg==",
+        "linkedin": "https://www.linkedin.com/in/shikha-yadav19?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "members": [
+        {
+            "name": "Abhay Verma",
+            "desig": "Member",
+            "img": "/about-pics/abhayverma.jpg",
+            "insta": "https://www.instagram.com/abhay.verma__1?igsh=cjRqZ21xN3BsbjRl",
+            "linkedin": "https://www.linkedin.com/in/abhay-verma-62a2b2343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "name": "Amurtya Rai",
+            "desig": "Member",
+            "img": "/about-pics/amurtyarai.jpg",
+            "insta": "https://www.instagram.com/_amurtya_?igsh=MTdzOTVxeHhjNjA3cw==",
+            "linkedin": "https://www.linkedin.com/in/amurtya-rai-bb3659288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "name": "Aryan S Rathore",
+            "desig": "Member",
+            "img": "/about-pics/aryansrathore.jpg",
+            "insta": "https://www.instagram.com/aryan17jan05?igsh=MTRkbWE5OWJjdzlseA==",
+            "linkedin": "https://www.linkedin.com/in/aryan-s-rathore-055483330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "name": "Awshira Hussain",
+            "desig": "Member",
+            "img": "/about-pics/awshirahussain.jpg",
+            "insta": "https://www.instagram.com/awsh_thisside?igsh=MXM0aW5panJsZ3cwcw==",
+            "linkedin": "https://www.linkedin.com/in/awshira-hussain-73881a325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "name": "Ayush Koshle",
+            "desig": "Member",
+            "img": "/about-pics/ayushkoshle.jpg",
+            "insta": "https://www.instagram.com/ayushkoshle_01?igsh=cnVlNnlocHZzY2pq",
+            "linkedin": "https://www.linkedin.com/in/ayush-koshle-957414314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "name": "Shantanu Trivedi",
+            "desig": "Member",
+            "img": "/about-pics/shantanutrivedi.jpg",
+            "insta": "https://www.instagram.com/shantanu_trivedi1512/profilecard/?igsh=ZDlmODNtY2J0cjUx",
+            "linkedin": "https://www.linkedin.com/in/shantanu-trivedi-a00897281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+    ]
+}
