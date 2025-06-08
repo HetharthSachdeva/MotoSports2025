@@ -1,0 +1,39 @@
+{
+    "domainHead": {
+        "name": "Aman Sharma",
+        "desig": "Domain Head",
+        "img": "/about-pics/amansharma.jpg",
+        "insta": "https://www.instagram.com/aman.n.___/profilecard/?igsh=MXI5amc3eDFjNjQwZw==",
+        "linkedin": "https://www.linkedin.com/in/aman-sharma-874a7b252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    "members": [
+        {
+            "name": "Divyansh Agrawal",
+            "desig": "Member",
+            "img": "/about-pics/divyanshagrawal.jpg",
+            "insta": "https://www.instagram.com/agrawaldivyanshh?igsh=bGdrMWxxeG1lYmoy",
+            "linkedin": "https://www.linkedin.com/in/divyansh-agrawal-33b24134a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "name": "Divyendu Jena",
+            "desig": "Member",
+            "img": "/about-pics/divyendujena.jpg",
+            "insta": "https://www.instagram.com/divy3ndu/",
+            "linkedin": "https://www.linkedin.com/in/divyendu-jena-nitrr2024"
+        },
+        {
+            "name": "Pragati Patel",
+            "desig": "Member",
+            "img": "/about-pics/pragatipatel.jpg",
+            "insta": "https://www.instagram.com/_pragati_1?igsh=NGp1YWd2dGExanNt",
+            "linkedin": "https://www.linkedin.com/in/pragati-patel-5a2904339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "name": "Arpan Mishra",
+            "desig": "Member",
+            "img": "/about-pics/arpanmishra.jpg",
+            "insta": "https://www.instagram.com/ritwiz_04?igsh=MXUxMWQ3b2JvNjdidA==",
+            "linkedin":"#"
+        }
+    ]
+}
