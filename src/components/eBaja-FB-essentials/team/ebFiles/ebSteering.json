@@ -1,0 +1,63 @@
+{
+    "domainHead": [{
+        "index": "Ritika",
+        "name": "Ritika Jain",
+        "DomainName": "Steering",
+        "desig": "Domain Head",
+        "img": "/eb-pics/ritikajain.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/jn_.ritika?igsh=OTlydzRma2JqOTJy"
+    },{
+        "index": "Sanket",
+        "name": "Sanket Diwakar",
+        "DomainName": "Steering",
+        "desig": "Member",
+        "img": "/eb-pics/sanketdiwakar.jpg",
+        "linkedin": "https://www.linkedin.com/in/sanket-diwakar-55b5aa328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/s.a.n.k.e.t_jain?igsh=MW9qaXE2OTM4OGZkcQ=="
+    }],
+    "members": [
+        {
+        "index": "Sahil",
+        "name": "Sahil Sahu",
+        "DomainName": "Steering",
+        "desig": "Member",
+        "img": "/eb-pics/sahilsahu.jpg",
+        "linkedin": "https://www.linkedin.com/in/sahil-sahu-8313a7317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/sahilsahu_24/profilecard/?igsh=b2lsMjh5dWIwYTB3"
+    },
+        {
+        "index": "Polam",
+        "name": "Polam Vijaya Krishna",
+        "DomainName": "Steering",
+        "desig": "Member",
+        "img": "/eb-pics/polamvijaykrishna.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/vijaykrishna_polam?igsh=bnd5c2EwbGpkN2p1"
+    },{
+        "index": "Tushar",
+        "name": "Tushar Yadav",
+        "DomainName": "Steering",
+        "desig": "Member",
+        "img": "/eb-pics/tusharyadav.jpg",
+        "linkedin": "https://www.linkedin.com/in/tushar-yadav-b75a79339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/tusha.r_2004?igsh=MXY1Y3N4bzRmaXg4Nw=="
+    },{
+        "index": "R.",
+        "name": "R. Abhinaya Supriya",
+        "DomainName": "Steering",
+        "desig": "Member",
+        "img": "/eb-pics/rabhinayasupriya.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/_abhinaya___7?igsh=YWh1Y3JjdTR5ZHJk"
+    },{
+        "index": "Ragini",
+        "name": "Ragini Dhurve",
+        "DomainName": "Steering",
+        "desig": "Member",
+        "img": "/eb-pics/raginidhurve.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/ragini_dhurve_18?igsh=MWIzY3c0NzNiNHphdg=="
+    }
+    ]
+}

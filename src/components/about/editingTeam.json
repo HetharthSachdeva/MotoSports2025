@@ -1,0 +1,32 @@
+{
+    "domainHead": [{
+            "name": "Sanskar Gupta ",
+            "desig": "Creative-Head",
+            "img": "/about-pics/sanskargupta.jpg",
+            "insta": "https://www.instagram.com/sanskargupta80?igsh=ZGh6eHY5NXlnOHYx",
+            "linkedin":"https://www.linkedin.com/in/sanskargupta80"
+    }],
+    "members": [
+        {
+            "name": "Ankan Mondal",
+            "desig": "Member",
+            "img": "/about-pics/ankanmondal.png",
+            "insta": "https://www.instagram.com/ankanmandal080205?igsh=aXphdXZsc2Y3ZGdt",
+            "linkedin": "https://www.linkedin.com/in/ankan-mondal-2476b5294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "name": "Aryan S Rathore",
+            "desig": "Member",
+            "img": "/about-pics/aryansrathore.jpg",
+            "insta": "https://www.instagram.com/aryan17jan05?igsh=MTRkbWE5OWJjdzlseA==",
+            "linkedin": "https://www.linkedin.com/in/aryan-s-rathore-055483330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "name": "Atharva Rathore",
+            "desig": "Member",
+            "img": "/about-pics/atharvarathore.jpg",
+            "insta": "https://www.instagram.com/atharva_rathore?igsh=MXY1MnFpeHY3cW4yNg== ",
+            "linkedin": "#"
+        }
+    ]
+}

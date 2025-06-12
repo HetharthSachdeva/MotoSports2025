@@ -1,0 +1,44 @@
+{
+    "domainHead": [
+        {
+        "name": "Pranay Shrivastava",
+        "DomainName": "Team Management",
+        "desig": "Captain",
+        "img": "/picsfb/pranayshrivastava.jpg",
+        "linkedin": "https://www.linkedin.com/in/pranay-shrivastava-5b2636299/",
+        "insta": "https://www.instagram.com/shrivastava_pranay/"
+    }
+    ],
+    "members": [
+        {
+        "index": "Saral_Pandey",
+        "name": "Saral Pandey",
+        "DomainName": "Team Management",
+        "desig": "Vice Captain",
+        "img": "/picsfb/saralpandey.png",
+        "linkedin": "",
+        "insta": ""
+    },{
+        "name": "Harsh Shrivastava",
+        "DomainName": "Frames",
+        "desig": "Head Coordinator",
+        "img": "/picsfb/harshshrivastava.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-shrivastava-1006h?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/harsh10.6?igsh=YnkwZ3N3Y2VicW5x"
+    },{
+        "name": "Sachin Kumar",
+        "DomainName": "Frames",
+        "desig": "Team Manager",
+        "img": "/picsfb/sachinsahu.jpeg",
+        "linkedin": "https://www.linkedin.com/in/sachin-sahu-01389031b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "insta": "https://www.instagram.com/sachin.sahu19?igsh=c2d5ZG9pdTl6NjZp&utm_source=qr"
+    },
+    {"name": "Vishnu Dixit",
+        "DomainName": "Team Management",
+        "desig": "Team Manager",
+        "img": "/picsfb/vishnudixit.jpg",
+        "linkedin": "https://www.linkedin.com/in/vishnu-dixit-b99bb52b2/",
+        "insta": "https://www.instagram.com/vishnu_dixit05/"
+    }
+    ]
+}

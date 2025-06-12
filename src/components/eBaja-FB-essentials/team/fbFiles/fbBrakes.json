@@ -1,0 +1,62 @@
+{
+  "domainHead": [
+    {
+      "name": "Abhishek mishra",
+      "DomainName": "Brakes",
+      "desig": "Member",
+      "img": "/picsfb/abhishekmishra.jpg",
+      "linkedin": "",
+      "insta": "https://www.instagram.com/trying_learning?igsh=dXc5MWtudWtxYmJx"
+    }
+  ],
+  "members": [
+    {
+      "name": "Jatin Verma",
+      "DomainName": "Brakes",
+      "desig": "Member",
+      "img": "/picsfb/jatinverma.jpg",
+      "linkedin": "https://www.linkedin.com/in/jatin-verma-29a744317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "insta": "https://www.instagram.com/25jatinnn?igsh=MWdxcGNmY3ViNWZnMg=="
+    },
+    {
+      "name": "Mayank Jhariya",
+      "DomainName": "Brakes",
+      "desig": "Member",
+      "img": "/picsfb/mayankjhariya.jpg",
+      "linkedin": "https://www.linkedin.com/in/mayank-jhariya-2539a4359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "insta": "https://www.instagram.com/mayank.jhariya_28?igsh=MXVjYXkzYWRxOHJ0Ng=="
+    },
+    {
+      "name": "Nandini Gouraha",
+      "DomainName": "Brakes",
+      "desig": "Member",
+      "img": "/picsfb/nandinigouraha.jpg",
+      "linkedin": "https://www.linkedin.com/in/nandini-gouraha-52bb5a367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "insta": ""
+    },
+    {
+      "name": "Milind Kumawat",
+      "DomainName": "Brakes",
+      "desig": "Member",
+      "img": "/picsfb/milindkumawat.jpg",
+      "linkedin": "https://www.linkedin.com/in/milind-kumawat-2015a4235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "insta": "https://www.instagram.com/milind00476?igsh=bXQ5Z25zbWV3M3A5"
+    },
+    {
+      "name": "Piyush Kumawat",
+      "DomainName": "Brakes",
+      "desig": "Member",
+      "img": "/picsfb/piyushkumawat.jpg",
+      "linkedin": "https://www.linkedin.com/in/piyush-kumawat-281035346",
+      "insta": "https://www.instagram.com/19.piyushh?igsh=MXF5bHp4a2cxNWszNg=="
+    },
+    {
+      "name": "Aniruddh Dubey",
+      "DomainName": "Brakes",
+      "desig": "Member",
+      "img": "/picsfb/aniruddhdubey.jpg",
+      "linkedin": "",
+      "insta": ""
+    }
+  ]
+}
