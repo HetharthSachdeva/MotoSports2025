@@ -1,0 +1,77 @@
+{
+    "domainHead": [{
+        "name": "Aman Sharma",
+        "desig": "Domain Head",
+        "img": "/about-pics/amansharma.jpg",
+        "insta": "https://www.instagram.com/aman.n.___/profilecard/?igsh=MXI5amc3eDFjNjQwZw==",
+        "linkedin": "https://www.linkedin.com/in/aman-sharma-874a7b252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },{
+        "index": "Amurtya",
+        "name": "Amurtya Rai",
+        "DomainName": "Powertrain",
+        "desig": "Circuitry Head",
+        "img": "/eb-pics/amurtyarai.jpg",
+        "linkedin": "https://www.linkedin.com/in/amurtya-rai-bb3659288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/_amurtya_?igsh=MTdzOTVxeHhjNjA3cw=="
+    },{
+        "index": "Prince",
+        "name": "Prince Kumar Singh",
+        "DomainName": "Powertrain",
+        "desig": "Traction Head",
+        "img": "/eb-pics/princekumarsingh.jpg",
+        "linkedin": "www.linkedin.com/in/prince-kumar-singh-29466a309",
+        "insta": "https://www.instagram.com/prince_singh1701?igsh=YjJnOGM0MzY3Ymhy"
+    },{
+        "index": "Aarya",
+        "name": "Aarya Shastri",
+        "DomainName": "Powertrain",
+        "desig": "Driver",
+        "img": "/eb-pics/aaryashastri.jpg",
+        "linkedin": "https://www.linkedin.com/in/aarya-shastri-a93270350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/aarryyaa_._?igsh=MTU1NnhzZzVxMTQyMw=="
+    }],
+    "members": [{
+        "index": "Abhishek_K",
+        "name": "Abhishek Kumar",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img":"/eb-pics/abhishekkumar.jpg",
+        "linkedin": "https://www.linkedin.com/in/abhishek-kumar-172823327",
+        "insta": "https://www.instagram.com/abhishek__8376?igsh=MTF0M3locjczb3JucQ==&utm_source=ig_contact_invite"
+    },{
+        "index": "Jitendra",
+        "name": "Jitendra Saraswat",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img": "/eb-pics/jitendrasaraswat.jpg",
+        "linkedin": "https://www.linkedin.com/in/jitendra-saraswat-b1aa24324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/jitendra__009?igsh=MXR5dTQ3MHB0MTFkbg=="
+    },{
+        "index": "Rohith",
+        "name": "Rohith Balaji M",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img": "/eb-pics/rohithbalajim.jpg",
+        "linkedin": "https://www.linkedin.com/in/rohith-balaji-095615274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/rohithbalaji89_freakz?igsh=MTI3emthczM1OHR2Nw=="
+    },
+    {
+        "index": "Sayee",
+        "name": "Sayee Bhakare",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img": "/eb-pics/sayeebhakare.jpg",
+        "linkedin": "https://www.linkedin.com/in/sayee-bhakare-556b94233/",
+        "insta": "https://www.instagram.com/sassy_sayee?igsh=MWc3cWxkdGw4ZHd0Zw=="
+    },
+    {
+        "index": "Bhavya",
+        "name": "Bhavya Banchhor",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img": "/eb-pics/bhavyabanchhor.jpg",
+        "linkedin": "https://www.linkedin.com/in/bhavya-banchhor-3a5aa6262/",
+        "insta": ""
+    }       
+    ]
+}

@@ -40,7 +40,7 @@ function Navbar() {
 
     return (
         <>
-            <header className={`bg-dustyWhite flex justify-center items-center sticky top-0 h-28 sm:min-h-32 z-50 transition-transform duration-300 ${isScrollingUp ? 'transform-none' : '-translate-y-full'} ${hasScrolled ? 'shadow-lg' : ''}`}>
+            <header className={`bg-dustyWhite flex justify-center items-center sticky top-0 h-20 sm:h-20 z-50 transition-transform duration-300 ${isScrollingUp ? 'transform-none' : '-translate-y-full'} ${hasScrolled ? 'shadow-lg' : ''}`}>
                 <div className="w-85vw box-border">
                     <nav className='flex justify-between items-center min-h-32'>
                         <div className='px-2 py-6 xl:px-10 xl:py-10 flex justify-center items-center transition-all'>
@@ -48,7 +48,7 @@ function Navbar() {
                                 <img src={logo} alt="MotoSports Logo" className='w-24 mr-5' />
                             </a>
                             <a href="/">
-                                <h1 className='hidden md:block font-brushKing text-2xl font-black text-blackbean'>MOTOSPORTS</h1>
+                                <h1 className='hidden md:block font-albulaHeavy text-4xl font-black text-blackbean'>MOTOSPORTS</h1>
                             </a>
                         </div>
 

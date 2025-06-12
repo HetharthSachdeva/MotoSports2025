@@ -1,0 +1,44 @@
+{
+    "domainHead": [
+        {
+        "name": "Abhiroop",
+        "desig": "",
+        "img": "/picsfb/abhiroop.jpg",
+        "insta": "https://www.instagram.com/iam_sharmaji7?igsh=MTdpem9uZWpveXZ3cQ==",
+        "linkedin": "https://www.linkedin.com/in/abhiroop-sharma-75a46926b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },{
+        "name": "Arpit Yadav",
+        "desig": "",
+        "img": "/picsfb/arpityadav.jpeg",
+        "insta": "https://www.instagram.com/_._arpittttt._?igsh=MXZsN2Z1c2ZqMjdoZw%3D%3D&utm_source=qr",
+        "linkedin": "https://www.linkedin.com/in/arpit-yadav-28946b26b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        },
+        {
+        "name": "Avish Srivastava",
+        "desig": "",
+        "img": "/picsfb/avish.jpg",
+        "insta": "https://www.instagram.com/avish_jarvis_potter?igsh=a2F0dXplMG0wc3V4",
+        "linkedin": "https://www.linkedin.com/in/avish-kumar-shrivastava-0702ajp"
+        },{"name": "Om Prakash",
+            "desig": "",
+            "img": "/picsfb/om.jpg",
+            "insta": "https: //www.instagram.com/_.axelx_?igsh=eHo5M3J3YXdrNXJw",
+            "linkedin": "https://www.linkedin.com/in/om-prakash-sahoo-60bb46257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },{
+            "name": "Rishi Singh",
+            "desig": "",
+            "img": "/picsfb/rishi.jpg",
+            "insta": "https: //www.instagram.com/shiri_singha?igsh=MXNlZTY0d3JoNjA0Ng==",
+            "linkedin": "https://www.linkedin.com/in/rishi-singh-aa5387264?trk=contact-info"
+        },{
+            "name": "Ajay Kashyap",
+            "desig": "Domain Head",
+            "img": "/picsfb/ajay.jpg",
+            "insta": "",
+            "linkedin": "https://www.linkedin.com/in/ajaykashyap92025?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+        ],
+        "members": [
+            
+    ]
+}

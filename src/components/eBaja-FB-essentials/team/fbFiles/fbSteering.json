@@ -1,0 +1,47 @@
+{
+    "domainHead": [
+        {
+    "name": "Siddharth Phatak",
+    "DomainName": "Steering",
+    "desig": "Member",
+    "img": "/picsfb/siddharthphatak.jpg",
+    "linkedin": "https://www.linkedin.com/in/siddharth-phatak-1658a62bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "insta": "https://www.instagram.com/sid_ninja12/profilecard/?igsh=ZzE2bjk5OTA3ODNp"
+  }
+    ],
+    "members": [
+  {
+    "name": "Mukul Gupta",
+    "DomainName": "Steering",
+    "desig": "Member",
+    "img": "/picsfb/mukulgupta.jpeg",
+    "linkedin": "",
+    "insta": ""
+  },
+  {
+    "name": "M.CHITRA NANDINI",
+    "DomainName": "Steering",
+    "desig": "Member",
+    "img": "/picsfb/mchitranandini.jpg",
+    "linkedin": "https://www.linkedin.com/in/chitra-nandini-387085331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "insta": "https://www.instagram.com/nandini._.meesala?igsh=MXNjb2d2enBtY290Ng=="
+  },
+  {
+    "name": "Ashutosh Jha",
+    "DomainName": "Steering",
+    "desig": "Member",
+    "img": "/picsfb/ashutoshjha.png",
+    "linkedin": "",
+    "insta": ""
+  },
+  {
+    "name": "Abhay Tiwari",
+    "DomainName": "Steering",
+    "desig": "Member",
+    "img": "/picsfb/abhaytiwari.jpg",
+    "linkedin": "https://www.linkedin.com/in/abhay-tiwari-5b953b367/",
+    "insta": "https://www.instagram.com/abhaytiwari0607?igsh=MWJicnBnZjUxOTg0dg=="
+  }
+]
+
+}

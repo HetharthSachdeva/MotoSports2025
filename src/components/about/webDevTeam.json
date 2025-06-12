@@ -1,12 +1,20 @@
 {
-    "domainHead": { 
-      "name": "Vivek Verma",
+    "domainHead": [ 
+      { "index": "Rishabh",
+        "name": "Vivek Verma",
       "desig": "Domain Head",
-      "img": "/about-pics/",
+      "img": "/about-pics/vivekverma.jpg",
       "insta": "https://www.instagram.com/m_i_vivek/",
-      "linkedin": "https://www.linkedin.com/in/vivek-verma-b7701929a/"
-        },
+      "linkedin": "https://www.linkedin.com/in/vivek-verma-b7701929a/"}
+    ],
     "members": [
+        {
+            "name": "Mayur Nanwani",
+            "desig": "Member",
+            "img": "/about-pics/mayurnanwani.jpg",
+            "insta": "https://www.instagram.com/mayur_.17/",
+            "linkedin": "https://www.linkedin.com/in/mayur-nanwani-7705b5153/"
+        },
         {
             "name": "Hetharth Sachdeva",
             "desig": "Member",
@@ -15,18 +23,18 @@
             "linkedin": "https://www.linkedin.com/in/hetharth-sachdeva-9226301b6/"
         },
         {
+            "name": "Vedant Dubey",
+            "role": "Member",
+            "img": "/about-pics/vedantdubey.jpg",
+            "linkedin": "#",
+            "instagram": "#"
+        },
+        {
             "name": "Vijayesh Dey",
             "desig": "Member",
             "img": "/about-pics/vijayeshdey.jpg",
             "insta": "#",
             "linkedin": "https://linkedin.com/in/vijayesh-dey-69069a288"
-        },
-        {
-            "name": "Vedant Dubey",
-            "role": "Member",
-            "photo": "/about-pics/vedantdubey.jpg",
-            "linkedin": "#",
-            "instagram": "#"
         },
         {
             "name": "Ved Choraria",

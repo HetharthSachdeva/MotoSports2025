@@ -10,18 +10,13 @@ import TextShpere from '../eBaja-FB-essentials/textSphere/textSpehere';
 import Ourcar from '../eBaja-FB-essentials/car-perfoma/car-perfoma';
 import Phases from '../eBaja-FB-essentials/phases/phases';
 import phases from "./phases.json"
-import Team from '../eBaja-FB-essentials/team/team';
-import team from './team.json'
-import FrontLiner from '../eBaja-FB-essentials/team/frontLiners/frontLiner';
-import frontLinersData from './frontLiners.json'
-import Executives from '../eBaja-FB-essentials/team/executive/executive';
-import executives from './executive.json'
+import Team from '../eBaja-FB-essentials/team/ebFiles/ebTeam';
 
 function Description() {
   return (
-    <div className=' desc flex flex-col justify-center items-center h-800'>
-      <h1 className='ebaja2 ebaja ml-10 text-amber-800 mb-20'>EBAJA</h1>
-      <p className='w-4/5 ml-10 desc text-gray-600'>
+    <div className=' flex flex-col items-center h-800'>
+      <h1 className=' font-albulaHeavy text-amber-900 text-7xl ml-10 mb-5 mt-10 xl:mb-10 xl:mt-0'>EBAJA</h1>
+      <p className='w-4/5 text-base  text-gray-600'>
         <span className="text-red-700"> The primary objective of BAJA SAEINDIA </span>
         has always been to develop an understanding in the fresh and curious minds about entering the industrial reign. The purpose is to help the
         <span className="text-red-700"> Undergraduates </span>
@@ -96,27 +91,24 @@ function App() {
 
   return (
     <>
-      <main className='ebajaPage flex flex-col justify-between items-center bg-modestBrown'>
-        <div id='introDiv' className="w-85vw">
-          <div className="fbFront flex justify-evenly items-center">
+      <main className='ebajaPage flex flex-col justify-between items-center bg-modestBrown overflow-x-hidden'>
+        <div id='introDiv' className="">
+          <div className="fbFront flex xl:-mt-28 justify-evenly items-center">
             <Description />
             <TextShpere texts={texts} />
           </div>
 
-          <Phases events={phases} img="\pics\atv.png" alt="" className='img2' />
+          <Phases events={phases} img="\eb-pics\atv.png" alt="" className='img2' />
 
-          <h1 className='head text-6xl flex justify-center items-center pb-28 pt-36'>OUR CAR</h1>
-          <Ourcar events={info} img="\pics\ebajacar2.png" />
+          <h1 className='font-albulaHeavy text-amber-900 text-7xl   flex justify-center items-center pb-28 pt-36'>OUR CAR</h1>
+          <Ourcar events={info} img="\eb-pics\ebajacar2.png" />
 
-          <h1 className='head text-5xl flex justify-center items-center pb-28 pt-36'>MEET OUR TEAM</h1>
-          <FrontLiner caps={frontLinersData} />
+          <h1 className='font-albulaHeavy text-amber-900 text-5xl sm:text-6xl flex justify-center items-center text-center pt-36'>MEET OUR TEAM</h1>
 
           <div className="FB_Team eBaja_Team">
-            <Team {...team} />
+            <Team/>
           </div>
 
-          <h1 className='head text-5xl flex justify-center items-center pb-28 pt-36 my-10'>Executives</h1>
-          <Executives {...executives} />
         </div>
       </main>
     </>

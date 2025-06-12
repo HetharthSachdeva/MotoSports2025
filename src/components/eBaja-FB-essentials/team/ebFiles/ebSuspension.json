@@ -1,0 +1,54 @@
+{
+    "domainHead": [ 
+      {
+        "name": "Abhishek Yadav",
+        "desig": "Domain Head",
+        "img": "/eb-pics/abhishekyadav.jpg",
+        "linkedin": "https://www.linkedin.com/in/abhishek-yadav-90742a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/abhishekyadav_nitrr?igsh=MXN6OG1qMmE2aHBhNg=="
+        },{
+        "name": "Abhishek Verma",
+        "desig": "Member",
+        "img": "/eb-pics/abhishekverma.jpg",
+        "linkedin": "https://www.linkedin.com/in/abhishek-verma-5586332b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/abhishek.06745?utm_source=qr&igsh=MTYwZmw2YWZtNTUwag=="
+    }
+    ],
+    "members": [
+    {
+        "name": "Hemant Tanwar",
+        "desig": "Member",
+        "img": "/eb-pics/hemanttanwar.jpg",
+        "linkedin": "https://www.linkedin.com/in/hemant-tanwar-b17935332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/_haryanvi_choraa?igsh=MWI5dzE3aTF2dnppcw=="
+    },
+    {
+        "name": "Tarun Halder",
+        "desig": "Member",
+        "img": "/eb-pics/tarunhalder.jpg",
+        "linkedin": "https://www.linkedin.com/in/tarun-halder-184417332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/tarunhalder008?igsh=a2s5bGc1MHlpcmJl"
+    },
+    {
+        "name": "Sindhu Akula",
+        "desig": "Member",
+        "img": "/eb-pics/sindhuakula.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/sindhuakulaaa?igsh=M2V4c3FsdXJ6bWQ5"
+    },
+    {
+        "name": "A.Sai Subhashini",
+        "desig": "Member",
+        "img": "/eb-pics/asaisubhashini.jpg",
+        "linkedin": "",
+        "insta": ""
+    },
+    {
+        "name": "Rakshit Mudaliar",
+        "desig": "Member",
+        "img": "/eb-pics/rakshitmudaliar.jpg",
+        "linkedin": "https://www.linkedin.com/in/rakshit-mudaliar-21bb69368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/rakshit_827/profilecard/?igsh=ZzM4bnFlZjR4OGNi"
+    }
+    ]
+}

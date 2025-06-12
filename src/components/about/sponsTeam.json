@@ -1,28 +1,29 @@
 {
     "domainHead": [
         {
+        "name": "Harsh Shrivastava",
+        "desig": "Domain Head",
+        "img": "/about-pics/harshshrivastava.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-shrivastava-1006h?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "instagram": "https://www.instagram.com/harsh10.6?igsh=YnkwZ3N3Y2VicW5x"  
+        },
+        {
         "name": "Neeraj Kumar Verma",
         "desig": "Domain Head",
         "img": "/about-pics/neerajkumarverma.jpg",
         "insta": "https://www.instagram.com/neerv_2023?igsh=NHpnNjlwaXJ2cmEx",
         "linkedin": "https://www.linkedin.com/in/neeraj-verma-6a35142a0"
-        },
-        {
-        "name": "Harsh Shrivastava",
-        "role": "Domain Head",
-        "photo": "/about-pics/harshshrivastava.jpg",
-        "linkedin": "https://www.linkedin.com/in/harsh-shrivastava-1006h?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "instagram": "https://www.instagram.com/harsh10.6?igsh=YnkwZ3N3Y2VicW5x"  
-        },
-        {
-        "name": "Kundan Rathi",
-        "role": "Overall Operation Head",
-        "photo": "/about-pics/kundanrathi.jpg",
-        "linkedin": "https://www.linkedin.com/in/kundan-rathi-99a896287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "instagram": "https://www.linkedin.com/in/kundan-rathi-99a896287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
         }
+        
     ],
     "members": [
+        {
+            "name": "Tanmay Gupta",
+            "desig": "Member",
+            "img": "/about-pics/tanmaygupta.jpg",
+            "insta": "#",
+            "linkedin": "#"
+        },
         {
             "name": "Aditya Mishra",
             "desig": "Member",
@@ -51,12 +52,14 @@
             "insta": "https://www.instagram.com/sahilsahu_24/profilecard/?igsh=b2lsMjh5dWIwYTB3",
             "linkedin": "https://www.linkedin.com/in/sahil-sahu-8313a7317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
+        
         {
-            "name": "Tanmay Gupta",
+            "name": "Amogh Yash Gupta",
             "desig": "Member",
-            "img": "/about-pics/tanmaygupta.jpg",
-            "insta": "#",
-            "linkedin": "#"
+            "img": "/about-pics/amoghyashgupta.jpg",
+            "insta": "https://www.instagram.com/amoghyashgupta?igsh=NGVwejcxNnkwajFy",
+            "linkedin": "https://www.linkedin.com/in/amogh-yash-gupta-465201319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
+
     ]
 }

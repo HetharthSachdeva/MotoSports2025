@@ -1,0 +1,82 @@
+{
+    "domainHead": [
+        {
+            "name": "Kallakuri Venkata Rajiv Kumar",
+        "DomainName": "Frames",
+        "desig": "Domain Head",
+        "img": "/picsfb/kallakurivenkatarajivkumar.jpg",
+        "linkedin": "https://www.linkedin.com/in/kallakuri-venkata-rajiv-kumar-7753692bb",
+        "insta": ""
+        },
+        {
+        "name": "Harsh Shrivastava",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/picsfb/harshshrivastava.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-shrivastava-1006h?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/harsh10.6?igsh=YnkwZ3N3Y2VicW5x"
+    },{
+        "name": "Sachin Kumar",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/picsfb/sachinsahu.jpeg",
+        "linkedin": "https://www.linkedin.com/in/sachin-sahu-01389031b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "insta": "https://www.instagram.com/sachin.sahu19?igsh=c2d5ZG9pdTl6NjZp&utm_source=qr"
+    },{
+        "name": "Malvika Krishna Singh",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/picsfb/malvikakrishna.jpg",
+        "linkedin": "https://www.linkedin.com/in/malvika-krishna-6a3494313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/ivisha_krishna?igsh=MWhiaWh0bDJraG1sYg=="
+    }
+    ],
+    "members": [
+        {"name": "Atharva Rathore",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/picsfb/atharvarathore.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/atharva_rathore?igsh=MXY1MnFpeHY3cW4yNg=="},
+        {
+            "name": "B MANOJ KOUSHIK",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/picsfb/manojkoushik.jpg",
+        "linkedin": "https://www.linkedin.com/in/manoj-koushik-6b0556367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/manoj_koushik_6?igsh=MXR4aGgxOWtzZzRueA=="
+        },
+        {
+            "name": "Neetish Kumar",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/picsfb/neetishkumar.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/_neetish_01?igsh=YWhwdzhsZ3JpMDh4"
+        },
+        {
+            "name": "Kalyani Singh",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/picsfb/kalyanisingh.jpg",
+        "linkedin": "https://www.linkedin.com/in/kalyani-singh-4549bb343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/kalyani_s20?igsh=a3ZkZTduNWs2bmhj"
+        },
+        {
+            "name": "Nalini Nadipalli",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/picsfb/nalininadipalli.jpg",
+        "linkedin": "https://www.linkedin.com/in/nadipalli-nalini-063041336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/nalini___4?igsh=OTY3anZwb3Z6eTVi"
+        },
+        {
+            "name": "Mohendra Kurrey ",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/picsfb/mohendrakurrey.webp",
+        "linkedin": "https://www.linkedin.com/in/mohendra-kurrey-2725b5319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/mohendra_1729/profilecard/?igsh=MWVia3BiZ3RxZDB5YQ=="
+        }
+    ]
+}

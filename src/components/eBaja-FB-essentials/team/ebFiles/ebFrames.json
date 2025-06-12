@@ -1,0 +1,71 @@
+{
+    "domainHead": [{
+        "index": "Sambhab",
+        "name": "Sambhab Mohapatra",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/eb-pics/sambhabmohapatra.jpg",
+        "linkedin": "",
+        "insta": ""
+    },{
+        "index": "Satwik",
+        "name": "Satwik Gupta",
+        "DomainName": "Frames",
+        "desig": "Captain",
+        "img": "/eb-pics/satwikgupta.jpg",
+        "linkedin": "https://www.linkedin.com/in/satwik-gupta-a4a63431a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.linkedin.com/in/satwik-gupta-a4a63431a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    }
+    ,{
+        "index": "Gorli",
+        "name": "Gorli Sri Vardhan",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/eb-pics/gorlisrivardhan.jpg",
+        "linkedin": "https://www.linkedin.com/in/gorlisrivardhan",
+        "insta": ""
+    }],
+    "members": [
+        {
+        "index": "Manikanta",
+        "name": "Manikanta Gupta",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/eb-pics/manikantagupta.jpg",
+        "linkedin": "",
+        "insta": ""
+    },{
+        "index": "Arpit",
+        "name": "Arpit Gupta",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/eb-pics/arpitgupta.jpg",
+        "linkedin": "https://www.linkedin.com/in/arpit-gupta-b48775319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/arpitgupta2694?igsh=aW5ubHAzMDc5YTJ2"
+    },{
+        "index": "Chanakya",
+        "name": "Chanakya Yadu",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/eb-pics/chanakyayadu.jpg",
+        "linkedin": "https://www.linkedin.com/in/chanakya-yadu-5b166a330",
+        "insta": "https://www.instagram.com/chanakya_1302?igsh=MTFubjl6aWJrMzVzNQ=="
+    },{ 
+        "index": "Pragya",
+        "name": "Pragya Baghel",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/eb-pics/pragyabaghel.jpg",
+        "linkedin": "https://in.linkedin.com/in/pragya-baghel-123836367",
+        "insta": ""
+    },{
+        "index": "Atul",
+        "name": "Atul Tiwari",
+        "DomainName": "Frames",
+        "desig": "Member",
+        "img": "/eb-pics/atultiwari.jpg",
+        "linkedin": "",
+        "insta": "atul_tiwari1210"
+    }
+    ]
+}

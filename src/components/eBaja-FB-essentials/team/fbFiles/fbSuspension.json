@@ -1,0 +1,62 @@
+{
+  "domainHead": [
+    {
+      "name": "Saral Pandey",
+      "DomainName": "Suspension",
+      "desig": "Member",
+      "img": "/picsfb/saralpandey.png",
+      "linkedin": "",
+      "insta": ""
+    },
+    {
+      "name": "Yalla Upendra",
+      "DomainName": "Suspension",
+      "desig": "Member",
+      "img": "/picsfb/yallaupendra.png",
+      "linkedin": "https://www.linkedin.com/in/yalla-upendra-299440322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "insta": "https://www.instagram.com/_upendra_16?igsh=bWF6MjdzNHdyeWgy"
+    },
+    {
+      "name": "Sachin Kumar Mishra ",
+      "DomainName": "Suspension",
+      "desig": "Member",
+      "img": "/picsfb/sachinkumarmishra.webp",
+      "linkedin": "",
+      "insta": "https://www.instagram.com/_itz_skm_?igsh=MTlyYmV4NXVqYTF1Zw=="
+    }
+  ],
+  "members": [
+    {
+      "name": "Shubhraja Gouraha",
+      "DomainName": "Suspension",
+      "desig": "Member",
+      "img": "/picsfb/shubhrajagouraha.jpg",
+      "linkedin": "https://www.linkedin.com/in/shubhraja-gouraha-7b6627346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "insta": "https://www.instagram.com/shhhubhraja?igsh=MW4xNGdqaWRpbGxlag=="
+    },
+    {
+      "name": "Priyansh Anand",
+      "DomainName": "Suspension",
+      "desig": "Member",
+      "img": "/picsfb/priyanshanand.jpg",
+      "linkedin": "https://www.linkedin.com/in/priyansh-anand-39777b327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "insta": "https://www.instagram.com/priyansh7211?igsh=YTE4YnQya2xodmJ2"
+    },
+    {
+      "name": "Sourdipto Ghosh",
+      "DomainName": "Suspension",
+      "desig": "Member",
+      "img": "/picsfb/sourdiptoghosh.jpeg",
+      "linkedin": "",
+      "insta": ""
+    },
+    {
+      "name": "Akshat Nagesh",
+      "DomainName": "Suspension",
+      "desig": "Member",
+      "img": "/picsfb/akshatnagesh.jpg",
+      "linkedin": "https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav",
+      "insta": "https://www.instagram.com/broakshat?igsh=Y2M0MWNiMjdhejE2"
+    }
+  ]
+}
