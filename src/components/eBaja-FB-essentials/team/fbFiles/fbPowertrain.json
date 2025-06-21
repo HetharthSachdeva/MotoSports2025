@@ -1,0 +1,65 @@
+{
+    "domainHead": [
+        {
+             "name": "M Sharath kumar",
+        "DomainName": "Powertrain",
+        "desig": "Manufacturing Head",
+        "img": "/picsfb/msharathkumar.jpg",
+        "linkedin": "https://www.linkedin.com/in/sharath-kumar-a05b70351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/_sharath__kumar__?igsh=MW5hbGVpZzNsaXBtcQ=="
+        },
+        {
+            "name": "S SHRUTI",
+        "DomainName": "Powertrain",
+        "desig": "Design Head",
+        "img": "/picsfb/sshruti.jpg",
+        "linkedin": "https://www.linkedin.com/in/s-shruti-5b7859349",
+        "insta": ""
+        },{
+        "name": "Pranay Shrivastava",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img": "/picsfb/pranayshrivastava.jpg",
+        "linkedin": "https://www.linkedin.com/in/pranay-shrivastava-5b2636299/",
+        "insta": "https://www.instagram.com/shrivastava_pranay/"
+    }
+    ],
+    "members":[
+        {
+            "name": "Tanuj nigam",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img": "/picsfb/tanujnigam.jpg",
+        "linkedin": "https://www.linkedin.com/in/tanuj-nigam-3a1533303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/tanuj_nigam?igsh=MW5zd2hudnFybnhoaQ=="
+    },{
+        "name": "Renu Nirmalkar",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img": "/picsfb/renunirmalkar.jpg",
+        "linkedin": "https://www.linkedin.com/in/renu-nirmalkar-670580343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/renuu._26?igsh=M2dyenhqdzk2c2gx"
+    },{
+        "name": "Mewanshu Raj",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img": "/picsfb/mewanshuraj.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/mewanshu.raj/"
+    },{
+        "name": "B Devi Renita",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img": "/picsfb/bdevirenita.jpg",
+        "linkedin": "https://www.linkedin.com/in/devi-renita-balaga-172742345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/renita__1606?igsh=MThvODRyb3dxYms2aQ=="
+    },{
+        "name": "Husendra Kumar",
+        "DomainName": "Powertrain",
+        "desig": "Member",
+        "img": "/picsfb/husendrakumar.jpeg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/_husendrakunal_/"
+    }
+    ]
+}

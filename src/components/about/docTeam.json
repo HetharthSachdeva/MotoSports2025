@@ -1,0 +1,33 @@
+{
+    "domainHead":[ {
+        "name": "Ankit Anand",
+        "desig": "Domain Head",
+        "img": "/about-pics/ankitanand.jpg",
+        "insta": "https://www.instagram.com/_ankit__anand___?igsh=MWFqeHR1czg2cGZtNA==",
+        "linkedin": "https://www.linkedin.com/in/aanand684"
+    },
+    {
+        "name": "Vighnesh Gupta",
+        "desig": "Domain Head",
+        "img": "/about-pics/vighneshgupta.jpg",
+        "linkedin": "https://www.linkedin.com/in/vighnesh-gupta-1329b92a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "instagram": "https://www.instagram.com/vigh.nesh_._/"
+    }
+    ],
+    "members": [
+        {
+            "name": "Maitra Tiwari",
+            "desig": "Member",
+            "img": "/about-pics/maitratiwari.jpg",
+            "insta": "NIL",
+            "linkedin": "www.linkedin.com/in/maitratiwari40"
+        },
+        {
+            "name": "Sakshi Gagwani",
+            "desig": "Member",
+            "img": "/about-pics/sakshigagwani.jpg",
+            "insta": "https://www.instagram.com/sakshii_gagwani?igsh=MXZhOXpnZWQ2ZWd0aQ==",
+            "linkedin": "https://www.linkedin.com/in/sakshi-gagwani-a15b03324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "domainHead": [
+  {
+    "name": "Sankalp Gupta",
+    "DomainName": "",
+    "desig": "Vehicle Dynamics Head",
+    "img": "/picsfb/sankalpgupta.jpg",
+    "linkedin": "",
+    "insta": ""
+  },
+  {
+    "name": "Vishnu Dixit",
+    "DomainName": "Brakes",
+    "desig": "Brakes Domain Head",
+    "img": "/picsfb/vishnudixit.jpg",
+    "linkedin": "https://www.linkedin.com/in/vishnu-dixit-b99bb52b2/",
+    "insta": "https://www.instagram.com/vishnu_dixit05/"
+  },
+  {
+    "name": "Shraddha Agrawal",
+    "DomainName": "Steering",
+    "desig": "Steering Domain Head",
+    "img": "/picsfb/shraddhaagrawal.jpg",
+    "linkedin": "https://www.linkedin.com/in/shraddha-agrawal-9065272ab",
+    "insta": "https://www.instagram.com/shra.ddhaa_._?igsh=MXJwYWlxYTQyenE0OQ=="
+  },
+  {
+    "name": "Saksham Tikariha",
+    "DomainName": "Suspension",
+    "desig": "Suspension Domain Head",
+    "img": "/picsfb/sakshamtikariha.png",
+    "linkedin": "",
+    "insta": ""
+  }
+],
+    "members":[
+        
+    ]
+}

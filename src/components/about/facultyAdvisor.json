@@ -1,0 +1,27 @@
+{
+    "domainHead": [{
+        "name": "Dr. Sanjeev Kumar",
+        "DomainName": "Faculty Advisor",
+        "desig": "Faculty Advisor",
+        "img": "/about-pics/sanjeevkumar.png",
+        "linkedin": "",
+        "insta": ""
+    },{
+        "name": "Dr. Ankur Gupta",
+        "DomainName": "Faculty Advisor",
+        "desig": "Faculty Advisor",
+        "img": "/about-pics/ankurgupta.png",
+        "linkedin": "",
+        "insta": ""
+    },{
+        "name": "Dr. S. Vaidya",
+        "DomainName": "Faculty Advisor",
+        "desig": "Faculty Advisor",
+        "img": "",
+        "linkedin": "",
+        "insta": ""
+    }],
+    "members": [
+        
+    ]
+}

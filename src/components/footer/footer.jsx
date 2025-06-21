@@ -12,7 +12,7 @@ function Footer() {
 
                     <div className='flex flex-col lg:flex-row justify-between items-start mt-10 mb-10 sm:mb-5 xsm:mb-2'>
                         <div className='lg:w-1/2 flex flex-col mb-10'>
-                            <h1 className='font-poppins text-dustyWhite mt-7 mb-9 cursor-text'>The official motorsports club of National Institute of Technology, Raipur</h1>
+                            <h1 className='font-poppins text-dustyWhite  mb-9 mr-9 cursor-text'>The official motorsports club of National Institute of Technology, Raipur</h1>
                             <h1 className='font-poppins font-medium text-dustyWhite mb-3 cursor-text'>Social Handles</h1>
 
                             <div className='flex justify-between items-center w-125'>
@@ -45,25 +45,26 @@ function Footer() {
                                         <li className='font-poppins font-light text-base text-barelyBrown py-0.5 hover:text-dustyWhite transition-colors duration-300'>About Us</li>
                                     </a>
 
-                                    <a href="/notices" className='cursor-pointer'>
+                                    <a href="/#" className='cursor-pointer'>
                                         <li className='font-poppins font-light text-base text-barelyBrown py-0.5 hover:text-dustyWhite transition-colors duration-300'>Notices</li>
                                     </a>
 
-                                    <a href="/team" className='cursor-pointer'>
+                                    <a href="/formulaBharat" className='cursor-pointer'>
                                         <li className='font-poppins font-light text-base text-barelyBrown py-0.5 hover:text-dustyWhite transition-colors duration-300'>Our Team</li>
                                     </a>
 
-                                    <a href="/recruitment" className='cursor-pointer'>
+                                    <a href="/#" className='cursor-pointer'>
                                         <li className='font-poppins font-light text-base text-barelyBrown py-0.5 hover:text-dustyWhite transition-colors duration-300'>Recruitment</li>
                                     </a>
                                 </ul>
                             </div>
 
-                            <div className='flex flex-col mt-10 xsm:ml-10 xsm:mt-0 lg:w-auto'>
-                                <ul className='cursor-text flex flex-col items-start'>
+                            <div className='flex flex-col xsm:ml-10 xsm:mt-0 lg:w-auto'>
+                                <ul className='cursor-text xsm:-mt-7  flex flex-col items-start'>
                                     <h1 className='font-poppins font-medium text-dustyWhite mb-3 cursor-text'>Contact Us</h1>
                                     
-                                    <li className='font-poppins font-light text-base text-barelyBrown py-0.5'>Address: <br/><span className='text-barestBrown text-base hover:text-dustyWhite transition-colors duration-300 hover:cursor-pointer'>National Institute of Technology, Raipur</span></li>
+                                    <li className='font-poppins font-light text-base text-barelyBrown py-0.5'>Address: <br/><span className='text-barestBrown text-base hover:text-dustyWhite transition-colors duration-300 hover:cursor-pointer'><a href='https://maps.app.goo.gl/kDgxDtPruujKMsqLA'>National Institute of Technology, Raipur
+                                        </a></span></li>
 
                                     <a href="mailto:motosports.nitrr@gmail.com" className='cursor-pointer'>
                                         <li className='font-poppins font-light text-base text-barelyBrown py-0.5'>Email: <span className='text-barestBrown text-base hover:text-dustyWhite transition-colors duration-300'>motosports.nitrr@gmail.com</span></li>

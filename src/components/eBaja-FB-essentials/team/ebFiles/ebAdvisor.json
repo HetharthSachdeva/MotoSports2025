@@ -1,0 +1,44 @@
+{
+    "domainHead": [
+        {
+            "name": "Gaurab Ray",
+            "desig": "",
+            "img": "/eb-pics/gaurabray.png",
+            "insta": "https://www.instagram.com/24raygaurab?igsh=bmU0MnptdmwxdXFo",
+            "linkedin": "https://www.linkedin.com/in/gaurab-ray-504a8526b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },{
+            "name": "Pratyush Shastri",
+            "desig": "",
+            "img": "/eb-pics/pratyushshastri.jpg",
+            "insta": "https://www.instagram.com/prat_1220?igsh=MTJ5OXNlc21vMWsxMA==",
+            "linkedin": "https://www.linkedin.com/in/pratyush-shastri"
+        },{
+            "name": "Sarvagya Jain",
+            "desig": "",
+            "img": "/eb-pics/sarvagyajain.jpg",
+            "insta": "https://www.instagram.com/sarvagyajain2105?igsh=MWE1NmM0bnhoYTVqbw==",
+            "linkedin": "https://www.linkedin.com/in/sarvagya-jain-7159b2254/"
+        },{
+            "name": "Nimesh Kumar Kashyap",
+            "desig": "",
+            "img": "/eb-pics/nimeshkumarkashyap.jpg",
+            "insta": "",
+            "linkedin": "https://www.linkedin.com/in/nimesh-kumar-kashyap-1b0196261/"
+        },{
+            "name": "Ritik Pathak",
+            "desig": "",
+            "img": "/eb-pics/ritikpathak.jpg",
+            "insta": "https://www.instagram.com/ritik_gear?igsh=bDYzbW5zaGpuaWds",
+            "linkedin": "https://www.linkedin.com/in/ritik-pathak-31b865247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },{
+            "name": "K. S. S. Karthik",
+            "desig": "",
+            "img": "/eb-pics/karthik.JPG",
+            "insta": "https://www.instagram.com/karthik_sai712",
+            "linkedin": ""
+        }
+        ],
+        "members": [
+            
+    ]
+}

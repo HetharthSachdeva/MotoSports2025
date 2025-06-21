@@ -1,0 +1,53 @@
+{
+    "domainHead": [ 
+      {
+        "name": "Shantanu Gouraha",
+        "desig": "Domain Head",
+        "img": "/eb-pics/shantanugouraha.jpg",
+        "linkedin": "https://www.linkedin.com/in/shantanu-gouraha-a2828a1b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/shantanu.wav?igsh=MW90am9pZm45azg2aA=="
+    },{
+        "index": "Siddharth",
+        "name": "Siddharth Sharma",
+        "DomainName": "Brakes",
+        "desig": "Co-Driver",
+        "img": "/eb-pics/siddharthsharma.jpg",
+        "linkedin": "https://www.linkedin.com/in/siddharth-sharma-nitrr/",
+        "insta": "https://www.instagram.com/sid.dharth__sharma/"
+    }
+    ],
+    "members": [
+        {
+        "name": "Yuvraj Kumar Singh",
+        "desig": "Member",
+        "img": "/eb-pics/yuvrajkumarsingh.jpg",
+        "linkedin": "https://www.linkedin.com/in/yuvraj-kumar-singh-543607327",
+        "insta": "https://www.instagram.com/______yuvraj_singh?igsh=MTJ5enhlY3Vwd2hodw=="
+    },
+    {
+        "name": "Rishabh Gupta",
+        "DomainName": "Brakes",
+        "desig": "Member",
+        "img": "/eb-pics/rishabhgupta.jpg",
+        "linkedin": "https://www.linkedin.com/in/rishabh-gupta-283476322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/itz.rishabh_20?igsh=MW84dDBlZDd4MGhsNA=="
+    },{
+        "index": "Arpan",
+        "name": "Arpan Mishra",
+        "DomainName": "Brakes",
+        "desig": "Member",
+        "img": "/eb-pics/arpanmishra.jpg",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/ritwiz_04?igsh=MXUxMWQ3b2JvNjdidA=="
+    },
+    {
+        "index": "Prabhav",
+        "name": "Prabhav Verma",
+        "DomainName": "Brakes",
+        "desig": "Member",
+        "img": "/eb-pics/prabhavverma.jpg",
+        "linkedin": "",
+        "insta": ""
+    }
+    ]
+}
